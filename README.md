@@ -1,6 +1,6 @@
 # 🌄 NZWalks API
 
-NZWalks is a RESTful ASP.NET Core Web API built to manage and explore walking trails in New Zealand. It features full **CRUD operations** for walks and regions, supports **user authentication and role-based authorization**, allows **image uploads**, and includes **global exception handling** for cleaner error management.
+NZWalks is a RESTful ASP.NET Core Web API built to manage and explore walking trails . It features full **CRUD operations** for walks and regions, supports **user authentication and role-based authorization**, allows **image uploads**, and includes **global exception handling** for cleaner error management.
 
 ---
 
@@ -9,7 +9,7 @@ NZWalks is a RESTful ASP.NET Core Web API built to manage and explore walking tr
 - ✅ **Walks CRUD**
 - ✅ **Regions CRUD**
 - ✅ **User Authentication** using JWT
-- ✅ **Role-based Authorization** (`Reader`, `Writer`, `Admin`)
+- ✅ **Role-based Authorization** (`Reader`, `Writer`)
 - ✅ **Image Upload** for walk visuals
 - ✅ **Global Exception Handling** with clean error responses
 - ✅ **Swagger (OpenAPI)** UI for testing and documentation
