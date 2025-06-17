@@ -11,7 +11,7 @@ namespace NZWalks.API.Repositories
     public class SQLWalkRepository : IWalkRepository
     {
         private readonly NZWalksDbContext dbContext;
-
+ 
         public SQLWalkRepository(NZWalksDbContext dbContext)
         {
             this.dbContext = dbContext;
