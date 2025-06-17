@@ -121,6 +121,11 @@ Example response:
    ```json
    "ConnectionStrings": {
      "NZWalksConnectionString": "Server=.;Database=NZWalksDb;Trusted_Connection=True;"
+     ""AuthDbConnectionString"": "Server=.;Database=NZWalksDb;Trusted_Connection=True;"
+   }
+
+     "JWT": {
+     "Key": "YOURKEY"
    }
    ```
 
